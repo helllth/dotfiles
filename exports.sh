@@ -1,7 +1,7 @@
 source /Users/thorsten/.dotfiles/local/exports.sh
 export M2_HOME=/Users/thorsten/bin/maven/3.0.4/
 export M2=$M2_HOME/bin
-export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.7.0_51.jdk/Contents/Home"
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home"
 export JVMSTAT_JAVA_HOME=$JAVA_HOME
 #export JAVA_HOME=/Library/Java/Home/
 #export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/"
