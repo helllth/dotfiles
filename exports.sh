@@ -1,8 +1,7 @@
 source /Users/thorsten/.dotfiles/local/exports.sh
 export M2_HOME=/Users/thorsten/bin/maven/3.3.3/
 export M2=$M2_HOME/bin
-#export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.7.0_67.jdk/Contents/Home"
-export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home"
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home"
 export JVMSTAT_JAVA_HOME=$JAVA_HOME
 #export JAVA_HOME=/Library/Java/Home/
 #export JAVA_HOME="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/"
@@ -26,3 +25,8 @@ export GIT_PS1_SHOWUNTRACKEDFILES=true
 export GIT_PS1_SHOWUNTRACKEDFILES=true
 export LC_CTYPE="en_US.UTF-8"
 export LANG=en_US.UTF-8
+export HISTTIMEFORMAT="%d/%m/%y %T "
+export HIST_STAMPS="yyyy-mm-dd"
+export CIDS_DISTRIBUTION=/Users/thorsten/cidsDistribution
+export CIDS_SERVERS=$CIDS_DISTRIBUTION/server
+export GPGKEY=5A210D40
